@@ -1,3 +1,7 @@
+## Color Detection - image processing - opencv Python
+
+
+
 ** STEPS **
 
 1. For starting the program we have to give a image. 
